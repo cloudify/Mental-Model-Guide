@@ -51,13 +51,17 @@ Building a latticework of tech mental models.
 * Growth hypothesis 
 * Escape velocity
 * Hunting Elephants vs Flies
+* Technology adoption lifecycle
 * Long tail 
 * Job to be done
 * Positioning 
 * Net promoter score (ups)
 * 100 people love/1k true fans
-### Crypto
+### Cryptocurrency
 * Decentralization 
+* Currency
+* Security
+* Blockchain
 * Token utility 
 * Token velocity 
 * Debasement
@@ -65,3 +69,4 @@ Building a latticework of tech mental models.
 * Protocol / Fat protocol 
 * Fork
 * On-chain/Off-chain
+* Smart contract

@@ -30,6 +30,7 @@ Building a latticework of tech mental models.
 * Freemium
 * Lean/agile
 ### Design
+* Low/high fidelity
 * Hick’s law
 * Miller’s law
 * Occam’s razor
